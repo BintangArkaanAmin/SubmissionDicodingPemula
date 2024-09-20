@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Submission Dicoding Pemula</string>
+
+    <string name="nama_Handphone">Nama Handphone</string>
+    <string name="Desc">Deskripsi</string>
+
+    <string-array name="data_nama">
+        <item>Xiaomi</item>
+        <item>Jamjung</item>
+        <item>Apel</item>
+        <item>Uppu</item>
+        <item>Vovi</item>
+        <item>Acvan</item>
+        <item>Blue Magic</item>
+        <item>GOR phone</item>
+        <item>Huiwei</item>
+        <item>Miaw</item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item>xiamoi ipsum odor amet, consectetuer adipiscing elit. Imperdiet fermentum faucibus faucibus nisi eros egestas. Diam fringilla tellus ligula nunc suscipit tristique parturient netus nisi. Mi inceptos imperdiet commodo scelerisque lobortis aenean. Blandit mauris suspendisse; justo dolor dapibus in. Conubia fames pharetra est eleifend ullamcorper sit. Penatibus cras hendrerit hendrerit, quis efficitur ante? Ridiculus ridiculus platea convallis pretium diam neque. Aliquam iaculis laoreet mus sollicitudin ad blandit netus mi. Risus suscipit ex dui massa rhoncus netus.</item>
+        <item>jamjung ipsum odor amet, consectetuer adipiscing elit. Imperdiet fermentum faucibus faucibus nisi eros egestas. Diam fringilla tellus ligula nunc suscipit tristique parturient netus nisi. Mi inceptos imperdiet commodo scelerisque lobortis aenean. Blandit mauris suspendisse; justo dolor dapibus in. Conubia fames pharetra est eleifend ullamcorper sit. Penatibus cras hendrerit hendrerit, quis efficitur ante? Ridiculus ridiculus platea convallis pretium diam neque. Aliquam iaculis laoreet mus sollicitudin ad blandit netus mi. Risus suscipit ex dui massa rhoncus netus.</item>
+        <item>apple ipsum odor amet, consectetuer adipiscing elit. Imperdiet fermentum faucibus faucibus nisi eros egestas. Diam fringilla tellus ligula nunc suscipit tristique parturient netus nisi. Mi inceptos imperdiet commodo scelerisque lobortis aenean. Blandit mauris suspendisse; justo dolor dapibus in. Conubia fames pharetra est eleifend ullamcorper sit. Penatibus cras hendrerit hendrerit, quis efficitur ante? Ridiculus ridiculus platea convallis pretium diam neque. Aliquam iaculis laoreet mus sollicitudin ad blandit netus mi. Risus suscipit ex dui massa rhoncus netus.</item>
+        <item>oppo ipsum odor amet, consectetuer adipiscing elit. Imperdiet fermentum faucibus faucibus nisi eros egestas. Diam fringilla tellus ligula nunc suscipit tristique parturient netus nisi. Mi inceptos imperdiet commodo scelerisque lobortis aenean. Blandit mauris suspendisse; justo dolor dapibus in. Conubia fames pharetra est eleifend ullamcorper sit. Penatibus cras hendrerit hendrerit, quis efficitur ante? Ridiculus ridiculus platea convallis pretium diam neque. Aliquam iaculis laoreet mus sollicitudin ad blandit netus mi. Risus suscipit ex dui massa rhoncus netus.</item>
+        <item>vivo ipsum odor amet, consectetuer adipiscing elit. Imperdiet fermentum faucibus faucibus nisi eros egestas. Diam fringilla tellus ligula nunc suscipit tristique parturient netus nisi. Mi inceptos imperdiet commodo scelerisque lobortis aenean. Blandit mauris suspendisse; justo dolor dapibus in. Conubia fames pharetra est eleifend ullamcorper sit. Penatibus cras hendrerit hendrerit, quis efficitur ante? Ridiculus ridiculus platea convallis pretium diam neque. Aliquam iaculis laoreet mus sollicitudin ad blandit netus mi. Risus suscipit ex dui massa rhoncus netus.</item>
+        <item>advan ipsum odor amet, consectetuer adipiscing elit. Imperdiet fermentum faucibus faucibus nisi eros egestas. Diam fringilla tellus ligula nunc suscipit tristique parturient netus nisi. Mi inceptos imperdiet commodo scelerisque lobortis aenean. Blandit mauris suspendisse; justo dolor dapibus in. Conubia fames pharetra est eleifend ullamcorper sit. Penatibus cras hendrerit hendrerit, quis efficitur ante? Ridiculus ridiculus platea convallis pretium diam neque. Aliquam iaculis laoreet mus sollicitudin ad blandit netus mi. Risus suscipit ex dui massa rhoncus netus.</item>
+        <item>red magic ipsum odor amet, consectetuer adipiscing elit. Imperdiet fermentum faucibus faucibus nisi eros egestas. Diam fringilla tellus ligula nunc suscipit tristique parturient netus nisi. Mi inceptos imperdiet commodo scelerisque lobortis aenean. Blandit mauris suspendisse; justo dolor dapibus in. Conubia fames pharetra est eleifend ullamcorper sit. Penatibus cras hendrerit hendrerit, quis efficitur ante? Ridiculus ridiculus platea convallis pretium diam neque. Aliquam iaculis laoreet mus sollicitudin ad blandit netus mi. Risus suscipit ex dui massa rhoncus netus.</item>
+        <item>rog ipsum odor amet, consectetuer adipiscing elit. Imperdiet fermentum faucibus faucibus nisi eros egestas. Diam fringilla tellus ligula nunc suscipit tristique parturient netus nisi. Mi inceptos imperdiet commodo scelerisque lobortis aenean. Blandit mauris suspendisse; justo dolor dapibus in. Conubia fames pharetra est eleifend ullamcorper sit. Penatibus cras hendrerit hendrerit, quis efficitur ante? Ridiculus ridiculus platea convallis pretium diam neque. Aliquam iaculis laoreet mus sollicitudin ad blandit netus mi. Risus suscipit ex dui massa rhoncus netus.</item>
+        <item>huawei ipsum odor amet, consectetuer adipiscing elit. Imperdiet fermentum faucibus faucibus nisi eros egestas. Diam fringilla tellus ligula nunc suscipit tristique parturient netus nisi. Mi inceptos imperdiet commodo scelerisque lobortis aenean. Blandit mauris suspendisse; justo dolor dapibus in. Conubia fames pharetra est eleifend ullamcorper sit. Penatibus cras hendrerit hendrerit, quis efficitur ante? Ridiculus ridiculus platea convallis pretium diam neque. Aliquam iaculis laoreet mus sollicitudin ad blandit netus mi. Risus suscipit ex dui massa rhoncus netus.</item>
+        <item>cat ipsum odor amet, consectetuer adipiscing elit. Imperdiet fermentum faucibus faucibus nisi eros egestas. Diam fringilla tellus ligula nunc suscipit tristique parturient netus nisi. Mi inceptos imperdiet commodo scelerisque lobortis aenean. Blandit mauris suspendisse; justo dolor dapibus in. Conubia fames pharetra est eleifend ullamcorper sit. Penatibus cras hendrerit hendrerit, quis efficitur ante? Ridiculus ridiculus platea convallis pretium diam neque. Aliquam iaculis laoreet mus sollicitudin ad blandit netus mi. Risus suscipit ex dui massa rhoncus netus.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/7/7c/Poco_X3_Pro.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/1/17/Galaxy_Z_Flip3_5G.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Smartphone.png/375px-Smartphone.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Oppo_Find_X7_Ultra.jpg/800px-Oppo_Find_X7_Ultra.jpg</item>
+        <item>https://asset-2.tstatic.net/jogja/foto/bank/images/Review-HP-Vivo-V27-5G-Harga-Rp-5999000-Cek-Spesifikasi-Kelebihan-dan-Kekurangannya.jpg</item>
+        <item>https://carisinyal.com/wp-content/uploads/2020/12/Advan-G5-Elite-1.jpg</item>
+        <item>https://www.geekwills.com/media/catalog/product/cache/d368225e56c0af8fed569f12698f474d/9/f/9f79a08b-ea06-4df3-8124-bcaa0f9d3a14.jpeg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/9/93/Rog_Phone%2C_Gaming_phone_of_Asus.jpg</item>
+        <item>https://cdn.pricebook.co.id/article/608f92a7b92c2e066c8b4568/608f92a7b92c2e066c8b4568_1664854916.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CAT-B10-RUGGED-SMARTPHONE-1-STRONGSTUFF-RU.jpg/360px-CAT-B10-RUGGED-SMARTPHONE-1-STRONGSTUFF-RU.jpg</item>
+
+    </string-array>
+
+    <string name="about">About</string>
+</resources>
